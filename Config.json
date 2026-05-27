@@ -23,9 +23,16 @@
     ],
     "lives": [
         {
-            "name": "央视卫视直播",
+            "name": "央视卫视大全",
             "type": 0,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+            "epg": "https://epg.112114.xyz/pp.xml",
+            "logo": ""
+        },
+        {
+            "name": "高清IPTV",
+            "type": 0,
+            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
             "epg": "https://epg.112114.xyz/pp.xml",
             "logo": ""
         }
