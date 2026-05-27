@@ -1,0 +1,33 @@
+{
+    "sites": [
+        {
+            "key": "csp_XBPQ",
+            "name": "综合影视",
+            "type": 3,
+            "api": "csp",
+            "searchable": 1,
+            "filterable": 1,
+            "playerType": 1,
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/xiaohuihui520/TVBox/main/xbpq.json"
+        },
+        {
+            "key": "csp_AppYsV2",
+            "name": "高清聚合",
+            "type": 3,
+            "api": "csp",
+            "searchable": 1,
+            "filterable": 1,
+            "playerType": 1,
+            "ext": "http://xhww.fun:6054/宝盒4k/1.json"
+        }
+    ],
+    "lives": [
+        {
+            "name": "央视卫视直播",
+            "type": 0,
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+            "epg": "https://epg.112114.xyz/pp.xml",
+            "logo": ""
+        }
+    ]
+}
